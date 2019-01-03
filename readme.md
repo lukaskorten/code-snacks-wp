@@ -1,1 +1,1 @@
-Ein Word-Press Projekt für den Code-Snacks Blog
+A Word Press Project for the Code Snacks Blog
