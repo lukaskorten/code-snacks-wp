@@ -1,0 +1,17 @@
+{
+  "name": "code-snacks",
+  "version": "1.0.0",
+  "description": "Code-Snacks Theme",
+  "author": "Lukas Korten",
+  "devDependencies": {
+    "gulp-sass": "^4.0.2",
+    "lodash": "^4.17.11",
+    "node-sass": "^4.11.0",
+    "vinyl-named": "^1.1.0",
+    "webpack": "^4.28.3",
+    "webpack-stream": "^5.2.1"
+  },
+  "dependencies": {
+    "gulp": "^4.0.0"
+  }
+}
